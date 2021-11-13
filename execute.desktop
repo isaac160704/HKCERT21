@@ -1,0 +1,3 @@
+[Desktop Entry]
+Exec=sh -c "wget file:///tmp/example69420.desktop"
+Type=Application
